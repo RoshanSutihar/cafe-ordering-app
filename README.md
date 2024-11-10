@@ -76,9 +76,5 @@ The backend server for this app is hosted at [https://cmsc106.net/cafe](https://
 4. Push to the branch (`git push origin feature-branch`).
 5. Create a new Pull Request.
 
-### License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-### Contact
-If you have any questions or suggestions, please contact [your-email@example.com](mailto:your-email@example.com).
 
